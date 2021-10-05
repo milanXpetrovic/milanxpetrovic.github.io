@@ -1,0 +1,30 @@
+h1, h2, p {
+	color: #800000;
+}
+
+a{
+	color: #0000ee;
+}
+
+body {
+  background-color: #ffffee;
+}
+
+.shortcut-button img {
+	height: 38px;
+  	width: 38px;
+  	border-radius: 10px;
+	background: #FDFFFF;
+	padding: 3px;
+	margin: 2px;
+}
+
+img:hover{
+	outline: 1px solid lightgray;
+	-o-transition:.5s;
+	-ms-transition:.5s;
+	-moz-transition:.5s;
+	-webkit-transition:.5s;
+	transition:.1s;
+	box-shadow: 5px 5px 5px #888888;
+}
